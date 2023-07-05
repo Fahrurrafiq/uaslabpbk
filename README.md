@@ -1,4 +1,6 @@
 # uaslabpbk
+Nama : Muhammad Fahrurrafiq
+Npm  : 213510682
 
 ## Project setup
 ```
